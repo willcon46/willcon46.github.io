@@ -1,6 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"フィールドマップ","order":1,"parentId":0,"scrollX":816,"scrollY":640},
-{"id":2,"expanded":false,"name":"普通の町","order":2,"parentId":0,"scrollX":816,"scrollY":640,"quick":false},
-{"id":3,"expanded":false,"name":"岩の洞窟","order":3,"parentId":0,"scrollX":832,"scrollY":1280,"quick":false}
+{"id":1,"expanded":true,"name":"MAP001","order":2,"parentId":0,"scrollX":742.8,"scrollY":540,"quick":false},
+{"id":2,"expanded":false,"name":"kyousitu","order":1,"parentId":0,"scrollX":742.8,"scrollY":420,"quick":false},
+{"id":3,"expanded":false,"name":"oyahouse","order":4,"parentId":6,"scrollX":742.8,"scrollY":410.4,"quick":false},
+null,
+null,
+{"id":6,"expanded":true,"name":"MAP002","order":3,"parentId":1,"scrollX":752.4,"scrollY":828,"quick":false}
 ]
