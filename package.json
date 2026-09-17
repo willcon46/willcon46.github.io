@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "江戸の大冒険",
+        "title": "江戸時代のくらし",
         "width": 816,
         "height": 624,
         "position": "center",
